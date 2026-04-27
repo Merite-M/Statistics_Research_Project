@@ -1,0 +1,9 @@
+{
+  "python.condaPath": "C:\\Users\\HP\\miniconda3\\Scripts\\conda.exe",
+  "python.defaultInterpreterPath": "C:\\Users\\HP\\miniconda3\\python.exe",
+  "jupyter.jupyterServerType": "local",
+  "jupyter.kernels.trusted": [
+    "Python (conda base)",
+    "Python (conda analytica)"
+  ]
+}
