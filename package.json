@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "doc_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Merite-M/Statistics_Research_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Merite-M/Statistics_Research_Project/issues"
+  },
+  "homepage": "https://github.com/Merite-M/Statistics_Research_Project#readme",
+  "dependencies": {
+    "docx": "^9.6.1"
+  }
+}
