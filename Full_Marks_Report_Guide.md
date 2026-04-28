@@ -5,7 +5,7 @@ This guide shows how to turn the notebook analysis into a strong written report 
 It is written for this project specifically:
 
 - Topic: student perceptions of AI grading vs human grading
-- Scope: Year 2 students cohort 2025 only
+- Scope: the full available survey dataset across all years of study
 - Main test: paired t-test for human fairness vs AI fairness
 - Second test: chi-square test for academic program vs preferred grading system
 - Sample size after cleaning: 91 responses
@@ -65,7 +65,7 @@ Use a title that is specific and academic.
 
 Example:
 
-**Student Perceptions of AI Grading and Human Grading Among Year 2 Students at Kepler College**
+**Student Perceptions of AI Grading and Human Grading at Kepler College**
 
 ## 4. Introduction: what to write
 
@@ -76,7 +76,7 @@ Include these points:
 - AI grading is becoming more common.
 - Students may not fully trust AI grading.
 - Fairness is important in assessment because it affects confidence, motivation, and acceptance of results.
-- This study focuses on Year 2 students cohort 2025
+- This study uses the full available survey dataset
 - The study compares perceptions of human grading and AI grading.
 - The study also checks whether preferred grading system differs by academic program.
 
@@ -84,7 +84,7 @@ You should clearly state the research objective.
 
 Good objective example:
 
-> The objective of this study is to determine whether Year 2 students rate human grading as fairer than AI grading and whether preferred grading system is associated with academic program.
+> The objective of this study is to determine whether students rate human grading as fairer than AI grading and whether preferred grading system is associated with academic program.
 
 State the hypotheses clearly.
 
@@ -133,7 +133,7 @@ State the population and sample clearly.
 
 Example:
 
-> The target population was Kepler students who responded to the survey. After cleaning, the final sample used for analysis contained 91 Year 2 responses.
+> The target population was Kepler students who responded to the survey. After cleaning, the final sample used for analysis contained 91 responses.
 
 If you do not know the full population size, say so honestly. Do not invent it.
 
@@ -201,7 +201,7 @@ Example:
 
 > Standardizing the academic program labels was necessary because the same category appeared in slightly different forms. Without this step, the summary counts would be misleading.
 
-Also mention that the final cleaned analysis used a Year 2-only sample, which is why the working sample size became 91 responses.
+Also mention that the final cleaned analysis used the full available dataset, which is why the working sample size became 91 responses after cleaning and deduplication.
 
 ## 7. Data Analysis: how to write it well
 
@@ -257,7 +257,7 @@ Do not stop at the numbers. Explain them.
 
 Example:
 
-> Since the p-value is below 0.05, the difference is statistically significant. This means Year 2 students rated human grading as significantly fairer than AI grading.
+> Since the p-value is below 0.05, the difference is statistically significant. This means students rated human grading as significantly fairer than AI grading.
 
 If you include the confidence interval, explain it briefly.
 
@@ -312,7 +312,7 @@ You may also note that the survey responses suggest mixed feelings about AI obje
 
 Include at least 2 or 3 honest limitations:
 
-- the sample is limited to Year 2 students
+- the sample is limited to students who responded to this survey
 - the study is based on survey responses, so it depends on perception
 - the sample size is modest
 - the results may not generalize to all students
@@ -415,7 +415,7 @@ Use this pattern repeatedly:
 
 Example:
 
-> Human fairness scores were higher than AI fairness scores. The paired t-test showed a significant difference, with p = 0.010461. This suggests that Year 2 students currently view human grading as fairer, which directly supports the main research objective.
+> Human fairness scores were higher than AI fairness scores. The paired t-test showed a significant difference, with p = 0.010461. This suggests that respondents currently view human grading as fairer, which directly supports the main research objective.
 
 ## 14. Common mistakes to avoid
 
@@ -449,6 +449,6 @@ Before submitting, confirm that your report has:
 
 If you need one sentence to keep the whole report focused, use this idea:
 
-> Year 2 students rated human grading as significantly fairer than AI grading, while academic program did not show a significant relationship with preferred grading system.
+> Respondents rated human grading as significantly fairer than AI grading, while academic program did not show a significant relationship with preferred grading system.
 
 That sentence can guide your whole report.
